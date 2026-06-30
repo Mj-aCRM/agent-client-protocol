@@ -271,6 +271,21 @@
       {
         "tab": "Brand",
         "pages": ["brand"]
+      },
+      {
+        "tab": "عربي",
+        "pages": [
+          {
+            "group": "البدء",
+            "pages": [
+              "ar/get-started/introduction",
+              "ar/get-started/architecture",
+              "ar/get-started/agents",
+              "ar/get-started/clients",
+              "ar/get-started/registry"
+            ]
+          }
+        ]
       }
     ]
   },
